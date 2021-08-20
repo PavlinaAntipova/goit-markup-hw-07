@@ -3,16 +3,16 @@
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: $primery-bgr-color;
+}
 
-  &__container {
-    display: flex;
-    align-items: baseline;
-  }
+.footer__container {
+  display: flex;
+  align-items: baseline;
+}
 
-  &__address-box,
-  &__social-box {
-    margin-right: 70px;
-  }
+.footer__address-box,
+.footer__social-box {
+  margin-right: 70px;
 }
 
 // Address

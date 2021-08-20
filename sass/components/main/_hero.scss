@@ -12,17 +12,17 @@
   background-size: cover;
   background-position: center;
   text-align: center;
+}
 
-  &__title {
-    margin-bottom: 30px;
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 1.36em;
-    letter-spacing: 0.06em;
-    color: $second-accent-color;
-    text-transform: uppercase;
-    text-align: center;
-  }
+.hero__title {
+  margin-bottom: 30px;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36em;
+  letter-spacing: 0.06em;
+  color: $second-accent-color;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 .hero__button {

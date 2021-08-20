@@ -4,6 +4,7 @@
 
 .features__item {
   margin-right: 30px;
+
   &:last-child {
     margin-right: 0;
   }
@@ -19,6 +20,7 @@
   background-color: #f5f4fa;
   border-radius: 4px;
 }
+
 .features__title {
   @extend %title;
   margin-bottom: 10px;
